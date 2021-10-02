@@ -76,6 +76,7 @@
         </v-card-actions>
       </v-card>
     </v-flex>
+    <h2>Hello world!</h2>
   </v-layout>
 </template>
 
